@@ -13,7 +13,9 @@
 
 快速提供全面且综合的數據
 
-如ChatGPT可通過用户的提問快速在其大的數據庫中把相關資訊組合并列出,節省用户找尋時間
+如ChatGPT可通過用户的提問快速在其大的數據庫中把相關資訊
+合并列出,節省用户找尋時間
+
 3. 技術優勢
 主要優勢和創新點:
 When compairing to traditional ai and gen ai it all lies in their capabilities and application.
