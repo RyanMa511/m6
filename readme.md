@@ -18,13 +18,13 @@
 
 3. 技術優勢
 主要優勢和創新點:
-When compairing to traditional ai and gen ai it all lies in their capabilities and application.
-for example traditional ai are designed forr solving specific task,analyze data and make predictions,
-while gen ai will create new data similar to its training data.
-In other words traditional ai can analyze data and tell you what it sees, but gen ai can use that same data to create 
-something entirely new.
+與傳統人工智慧和現代人工智慧相比，一切都取決於它們的能力和應用。
+例如，傳統的人工智慧是為解決特定任務、分析數據並做出預測而設計的，
+而 gen ai 將創建與其訓練資料類似的新資料。
+換句話說，傳統人工智慧可以分析數據並告訴你它看到了什麼，但現代人工智慧可以使用相同的數據來創建 
+一些全新的東西。
 效率、成本、便利性提升具體表現:
-When talking about the performance of gen ai the main three point is efficiency,cost and convenience.
+當談到人工智慧的效能時，主要的三點是效率、成本和便利性。
 efficiency:
 cost:
 convenience:
